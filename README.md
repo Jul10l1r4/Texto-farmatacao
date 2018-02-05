@@ -15,6 +15,6 @@ O efeito de deslizamento é algo almejado por muitos e também bastante usado, t
 Sabemos que os emoticons dão aquela mãozinha pra seu artgo chato ser um artigo chato mas interativo né?! Mas pensando nisso passei semanas fazendo buscas e qual seria a melhor forma de possibilitar o uso de emoticons, os que achei mais promissores era o uso de emojis em `svg` PORÉM, eles carregavam coordenadas que faria seu peso ser um pouco maior, e também o computador leria mais e exigiria mais do cliente, então considero e É DE FATO mais econômico porque são caracteres hexadecimais, para você que está curioso, leia como é [aqui](http://www.fileformat.info/info/unicode/char/1f603/index.htm).
 
 > O google chrome carrega os emoticons, porém ele não usa coloração, todos os emoticons até hoje saem em preto e braco, mas prevejo que logo logo funcionará normamente, já no Firefox funciona normamente e perfeitamente 😎, veja essa api que a usa 
-_________________________________
+_________
 ![logo HTTP meme reposta API](https://jul10l1r4.github.io/HTTP_-_Resposta/img/logo.jpeg "HTTP - meme reposta API") 
-_________________________________
+_________
