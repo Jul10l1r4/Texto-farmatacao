@@ -16,5 +16,5 @@ Sabemos que os emoticons dão aquela mãozinha pra seu artgo chato ser um artigo
 
 > O google chrome carrega os emoticons, porém ele não usa coloração, todos os emoticons até hoje saem em preto e braco, mas prevejo que logo logo funcionará normamente, já no Firefox funciona normamente e perfeitamente 😎, veja essa api que a usa 
 _________________________________
-| ![logo HTTP meme reposta API](https://jul10l1r4.github.io/HTTP_-_Resposta/img/logo.png "HTTP - meme reposta API") |
+![logo HTTP meme reposta API](https://jul10l1r4.github.io/HTTP_-_Resposta/img/logo.jpeg "HTTP - meme reposta API") 
 _________________________________
