@@ -1,16 +1,18 @@
-# texto-farmatacao
+> Projeto oficial não é este, está em [@jul10l1r4](https://notabug.org/Jul10l1r4/Texto-formatacao/)
+
+# texto-farmatacao :beer:
 
 Uma simples formatação para texto, criando uma boa aparência para caracteres emoticons entre outras
 
-## Baixe e use em suas aplicações
+## Baixe e use em suas aplicações 💙 
 
  Para utilizar é bem simples veja os exemplos:
  
-## Use o efeito scroll, sem carregar trilhões de códigos
+## Use o efeito scroll, sem carregar trilhões de códigos :fire:
 
 O efeito de deslizamento é algo almejado por muitos e também bastante usado, tráz aquela sensação de qualidade e de minimalismo, porém, nem sempre passa de sensação, muitas vezes os códigos são eternamente monstrons, são bibliotecas de mais 9000 linhas de códigos que importam muitas coisas, leia um artigo sobre isso em [@rootthings](https://rootthings.org/artigos/css3-paralax/) que explica a facilidade de usar esta ferramenta **NATIVA** do CSS 😏.
 
-## Tenha suportes a emoticons.
+## Tenha suportes a emoticons.❤️  
 
 Sabemos que os emoticons dão aquela mãozinha pra seu artgo chato ser um artigo chato mas interativo né?! Mas pensando nisso passei semanas fazendo buscas e qual seria a melhor forma de possibilitar o uso de emoticons, os que achei mais promissores era o uso de emojis em `svg` PORÉM, eles carregavam coordenadas que faria seu peso ser um pouco maior, e também o computador leria mais e exigiria mais do cliente, então considero e É DE FATO mais econômico porque são caracteres hexadecimais, para você que está curioso, leia como é [aqui](http://www.fileformat.info/info/unicode/char/1f603/index.htm).
 
