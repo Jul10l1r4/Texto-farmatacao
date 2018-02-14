@@ -1,6 +1,6 @@
 > Projeto oficial não é este, está em [@jul10l1r4](https://notabug.org/Jul10l1r4/Texto-formatacao/)
 
-# texto-farmatacao 🍺
+# Texto-farmatacao 🍺
 
 Uma simples formatação para texto, criando uma boa aparência para caracteres emoticons entre outras
 
