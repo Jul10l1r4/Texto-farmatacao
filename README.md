@@ -1,6 +1,6 @@
 > Projeto oficial não é este, está em [@jul10l1r4](https://notabug.org/Jul10l1r4/Texto-formatacao/)
 
-# texto-farmatacao :beer:
+# texto-farmatacao 🍺
 
 Uma simples formatação para texto, criando uma boa aparência para caracteres emoticons entre outras
 
@@ -8,7 +8,7 @@ Uma simples formatação para texto, criando uma boa aparência para caracteres 
 
  Para utilizar é bem simples veja os exemplos:
  
-## Use o efeito scroll, sem carregar trilhões de códigos :fire:
+## Use o efeito scroll, sem carregar trilhões de códigos 🔥
 
 O efeito de deslizamento é algo almejado por muitos e também bastante usado, tráz aquela sensação de qualidade e de minimalismo, porém, nem sempre passa de sensação, muitas vezes os códigos são eternamente monstrons, são bibliotecas de mais 9000 linhas de códigos que importam muitas coisas, leia um artigo sobre isso em [@rootthings](https://rootthings.org/artigos/css3-paralax/) que explica a facilidade de usar esta ferramenta **NATIVA** do CSS 😏.
 
