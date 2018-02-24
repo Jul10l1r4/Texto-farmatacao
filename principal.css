@@ -106,5 +106,6 @@ a:hover{
 	padding-right: 20px;
 	margin: 0 auto;
 }.medium-text>blockquote{
-	margin-left:760px	
+	padding-top:40px;
+	padding-bottom:20px
 }
