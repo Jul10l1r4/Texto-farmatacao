@@ -13,7 +13,7 @@ body{/* ____ Configuração para a animação*/
   src: url("seguiemj.ttf")
 }
 .emoj{/* Font mozilla ❤ */
-	font-family:"EmojiOne Mozilla";
+	font-family:"EmojiOne Mozilla", "Segoe UI Emoji";
 }
 *{/* Aplicando a mesma coisa em todas as páginas */
 	text-rendering: optimizespeed;
