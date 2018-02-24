@@ -100,7 +100,7 @@ a{
 a:hover{
 	color:#0ac;
 }
-.medium-text>p{
+.medium-text>p, .medium-text>blockquote, .medium-text>figure{
 	max-width: 740px;
 	padding-left: 20px;
 	padding-right: 20px;
