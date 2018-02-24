@@ -111,4 +111,6 @@ a:hover{
 }.medium-text>figure{
 	margin-top:20px
 	/* Configure a ação que deja */
+}.medium-text>p{
+	margin-top:20px	
 }
