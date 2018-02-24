@@ -43,7 +43,6 @@ h1{
 }
 /* Suporte a tag <figure> */
 figure{
-	margin-top:20px
 	/* Configure a ação que deja */
 }/* E essa outra tem que ficar dentro da tag figure, aqui dentro fica a descrição da imagem(importantissimo)*/
 figure>img{
@@ -109,4 +108,7 @@ a:hover{
 }.medium-text>blockquote{
 	padding-top:40px;
 	padding-bottom:20px
+}.medium-text>figure{
+	margin-top:20px
+	/* Configure a ação que deja */
 }
