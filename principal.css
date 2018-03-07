@@ -59,9 +59,9 @@ figcaption{
 code{
 	font-family: 'Source Code Pro', monospace;
 	border-radius:3px;
-	background:#eee;
+	background:#F6F8FA;
 	padding:5px;
-	color: #bf616a;
+	color: #000;
 }/* Blockquote, para falar frase ou citações */
 blockquote{
 	border-left:3px solid #000;
