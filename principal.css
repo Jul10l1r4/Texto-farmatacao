@@ -7,11 +7,6 @@ body{/* ____ Configuração para a animação*/
   font-style: regular;
   src: url("OpenSansEmoji.ttf")
 }
-@font-face {/* Fonte privados */
-  font-family: 'Segoe UI Emoji';
-  font-style: normal;
-  src: url("seguiemj.ttf")
-}
 .emoj{/* Font mozilla ❤ */
 	font-family:"EmojiOne Mozilla", "Segoe UI Emoji";
 }
