@@ -20,4 +20,9 @@ Sabemos que os emoticons dão aquela mãozinha pra seu artgo chato ser um artigo
 
 Veja essa api que a usa:
 
-<a href="https://jul10l1r4.github.io/HTTP_-_Resposta/" style="text-align:center">![logo HTTP meme reposta API](https://jul10l1r4.github.io/HTTP_-_Resposta/img/logo.png "HTTP - meme reposta API")</a>
+<p  style="text-align:center">
+ <a href="https://jul10l1r4.github.io/HTTP_-_Resposta/"><img src="https://jul10l1r4.github.io/HTTP_-_Resposta/img/logo.png"  width="200px" alt="HTTP - meme reposta API"/>
+  </a>
+  <a href="https://jul10l1r4.github.io/"><img src="https://jul10l1r4.github.io/assets/jl.png" alt="Julio Lira logo - Web Dev" width="200px"/>
+ </a>
+ <p>
