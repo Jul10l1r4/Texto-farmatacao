@@ -30,7 +30,7 @@ div#bloco{
   height:100%;
   overflow: hidden;
 }
-div.central{
+default{
   position:relative;
   margin:auto;
   text-align: center;
@@ -38,7 +38,7 @@ div.central{
   padding:05%;
   color:#ddd;
 }
-div.central img{
+default img{
   max-width: 60%;
   animation-name:crescer;
   animation-duration:0.80s;
@@ -47,7 +47,7 @@ div.central img{
 	div.bc{
 		width:45%;
 	}
-	div.central img{
+	default img{
 		max-width: 100%;
 	animation-name:crescera;
   animation-duration:0.80s;
