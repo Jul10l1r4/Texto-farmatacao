@@ -1,4 +1,3 @@
-![texto formatação](fibonacci-1601158_960_720.png "Texto Formatação")
 > Projeto oficial não é este, está em [@jul10l1r4](https://notabug.org/Jul10l1r4/Texto-formatacao/)
 
 # Texto-farmatacao 🍺
